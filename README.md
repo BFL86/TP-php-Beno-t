@@ -9,4 +9,4 @@
     -La page header qui contient les éléments se trouvant en haut des pages.
     -La page footer qui contient tout les éléments se trouvant en bas des pages.
     
-#### Voilà, merci d'avoir regarder mon travail.
+**Voilà, merci d'avoir regarder mon travail.**
