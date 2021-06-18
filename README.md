@@ -9,4 +9,8 @@
     -La page header qui contient les éléments se trouvant en haut des pages.
     -La page footer qui contient tout les éléments se trouvant en bas des pages.
     
+    
+    
+    P.S. : le tp zip contient les différentes pages que vous verrez au dessus
+    
 **Voilà, merci d'avoir regardé mon travail.**
